@@ -26,3 +26,7 @@
   become_method: sudo
   roles:
     - { role: grafana, tags: [grafana] }
+
+.
+
+
