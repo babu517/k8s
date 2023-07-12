@@ -1,0 +1,18 @@
+Some of the high level points are listed below for which we are looking for expertise. Network deployment diagram attached for your reference.
+
+
+NGINX Routing setup from front end code
+Create shards for Redis and related configurations to be added in java code.
+S3 bucket approach to read properties files
+SSL certificate configurations and related changes in load balancer settings.
+Configuration of secrets (storing password details on AWS)
+Connectivity of Aurora postgres SQL DB from client laptops (via VPN).
+MSK setup for real time streaming data. (Part of  Release2 – Expected to be taken up from 26th June)
+Monitoring of application
+API integrations with banks other system which will be connected to our services via APIGEE and Anthos gateway.
+SSO redirection setup with banks another application
+AD Authentication set up with banks on prem AD server
+Database (Aurora postgres SQL DB) related server configuration checks and best practices suggestion
+Setting up environment for testing different releases in parallel
+Blue green deployment and service mesh configuration
+
